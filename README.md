@@ -15,7 +15,7 @@ cd <path_to_AOO_and_MD5_files>
 openssl dgst -md5 <AOO file>.dmg
 cat <MD5 file>.md5
 ```
-- **SHA**
+- **SHA** 
 Sha-1
 ```
 shasum -a 1 /downloaded-filename.dmg
